@@ -3,4 +3,4 @@ pandas
 pandas_profiling
 matplotlib
 streamlit_pandas_profiling
-sklearn
+scikit-learn
